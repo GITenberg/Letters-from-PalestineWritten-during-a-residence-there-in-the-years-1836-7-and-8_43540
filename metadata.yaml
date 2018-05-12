@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42280'
     url: http://www.gutenberg.org/2009/agents/42280
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43540#Letters-from-PalestineWritten-during-a-residence-there-in-the-years-1836-7-and-8
 gutenberg_issued: '2013-08-22'
 gutenberg_type: Text
 identifiers:
